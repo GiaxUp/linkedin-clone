@@ -1,0 +1,204 @@
+body {
+  overflow-x: hidden;
+  /* Hide horizontal scrollbar */
+}
+
+.LinkModale {
+  text-decoration: none;
+  color: black;
+}
+
+.LinkModale:hover {
+  text-decoration: underline;
+}
+
+.fotoUser {
+  border-radius: 50%;
+  position: absolute;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+  top: 200px;
+  left: 25px;
+  width: 170px;
+}
+
+.userdetail {
+  margin-top: 60px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.fotoTondeProf {
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  top: 10px;
+}
+
+.fotoTonde {
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  top: 10px;
+}
+
+.App {
+  text-align: center;
+  background-color: #f3f2ef;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#navbar-body {
+  color: #666666;
+  font-size: 0.8rem;
+  border-bottom: #d1d1d1;
+}
+
+#navbar-logo {
+  height: 34px;
+  width: 34px;
+}
+
+.navbar-icon-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 22px;
+}
+
+.navbar-icon-container:hover {
+  color: black;
+  cursor: pointer;
+}
+
+#navbar-center {
+  display: flex;
+  flex-direction: row;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+#basic-navbar-nav {
+  cursor: pointer;
+}
+
+.nav-link:hover {
+  color: black;
+}
+
+.nav-icons:hover {
+  color: black;
+}
+
+#footer {
+  height: 200px;
+  width: 100%;
+  margin-left: 180px;
+  text-align: start;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+#footer ul {
+  list-style: none;
+  padding-left: 0px;
+}
+
+#footer a,
+#footer p,
+#footer .form-label,
+#footer .form-control {
+  color: #666666;
+  font-size: 0.7rem;
+  text-decoration: none;
+}
+
+#footer a:hover {
+  text-decoration: underline;
+  color: #0a66c2;
+}
+
+#footer-settings a {
+  font-weight: bold;
+}
+
+#footer-icons {
+  color: #666666;
+}
+
+#footer form {
+  width: 220px;
+}
+
+#dropdown-basic {
+  font-size: 0.7rem;
+  background-color: #f2f2f2;
+  color: #666666;
+  text-align: start;
+  border: none;
+  padding-left: 0px;
+}
+
+#dropdown-basic:hover {
+  text-decoration: underline;
+  color: #0a66c2;
+}
+
+#footer .drop-menu {
+  color: black;
+}
+
+#footer .drop-menu:hover {
+  text-decoration: none;
+}
+
+/*****MODAL BODY******/
+
+.modal-body-profile {
+  height: 80vh;
+  overflow-y: auto;
+}
+
+.textColor-modal {
+  color: #656363;
+}
