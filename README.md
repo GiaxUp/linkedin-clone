@@ -1,5 +1,6 @@
 # LinkedIn Clone (using React) @ Epicode
 Made by Giacomo Della Peruta, Palma Iacobelli, Carlos Sarmiento, Michela Kalowski e Feliciano Carlomagno at the end of the Unit 3 Week 4 and 5.
+[Link to the original repo](https://github.com/369-Palma/build-week3-team6new)
 
 ## Description
 Hi! In this project me and my teammates worked on a LinkedIn clone made with React. We used some intresting packages like `react-redux`, `react-router-dom` and `react-bootstrap`.
