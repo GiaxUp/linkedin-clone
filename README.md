@@ -20,4 +20,4 @@ We decided to hide our tokens into an `.env` file, if you decide to fork this pr
 ![HomePage](https://i.ibb.co/HpncTV7/1.png)
 
 ## Profile Page Screenshot
-![Profile](https://i.ibb.co/C66Rs8y/2.png)
+![Profile](https://i.ibb.co/0YT4Scp/68747470733a2f2f692e6962622e636f2f433636527338792f322e706e67.png)
