@@ -17,7 +17,8 @@ Hi! In this project me and my teammates worked on a LinkedIn clone made with Rea
 We decided to hide our tokens into an `.env` file, if you decide to fork this project it will probably fetch nothing!
 
 ## Home Page Screenshot
-![HomePage](https://i.ibb.co/HpncTV7/1.png)
+![image](https://github.com/GiaxUp/linkedin-clone/assets/40038797/789e18dc-253c-4bc3-b0cf-fab4ebc7fb7f)
 
 ## Profile Page Screenshot
-![Profile](https://i.ibb.co/0YT4Scp/68747470733a2f2f692e6962622e636f2f433636527338792f322e706e67.png)
+![image](https://github.com/GiaxUp/linkedin-clone/assets/40038797/14aa2ddd-514f-425a-8c4c-f9ea84ec7207)
+
